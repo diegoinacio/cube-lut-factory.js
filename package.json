@@ -1,0 +1,37 @@
+{
+  "name": "cube-lut-factory",
+  "version": "0.1.0",
+  "description": "Cube LUT file utils",
+  "main": "index.js",
+  "directories": {
+    "src": "src",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha || exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoinacio/cube-lut-factory.js.git"
+  },
+  "keywords": [
+    "LUT",
+    "lookup-table",
+    "color-grading",
+    "image-processing",
+    "computer-graphics"
+  ],
+  "author": "Diego Inácio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegoinacio/cube-lut-factory.js/issues"
+  },
+  "homepage": "https://github.com/diegoinacio/cube-lut-factory.js#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  },
+  "dependencies": {
+    "mathjs": "^7.0.2"
+  }
+}
