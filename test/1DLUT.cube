@@ -1,0 +1,17 @@
+# Copyright: (C) Copyright 2020 by Diego Inácio
+# 1D Cube LUT test
+# Website: https://github.com/diegoinacio/cube-lut-factory.js.git
+TITLE "1D Identity Cube LUT" # comment here
+
+# Cube LUT size
+LUT_1D_SIZE 4
+
+# Cube LUT domain
+DOMAIN_MIN 0 0 0
+DOMAIN_MAX 1 1 1
+
+# Cube LUT data points
+0.0000 0.0000 0.0000
+0.3333 0.3333 0.3333
+0.6667 0.6667 0.6667
+1.0000 1.0000 1.0000
