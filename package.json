@@ -1,6 +1,6 @@
 {
   "name": "cube-lut-factory",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cube LUT file utils",
   "main": "index.js",
   "directories": {
@@ -29,9 +29,9 @@
   "homepage": "https://github.com/diegoinacio/cube-lut-factory.js#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.2"
+    "mocha": "^7.2.0"
   },
   "dependencies": {
-    "mathjs": "^7.0.2"
+    "mathjs": "^7.1.0"
   }
 }
